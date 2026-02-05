@@ -82,7 +82,7 @@ Execute the following commands in your terminal to clone the repository and prep
 
 Clone the repository
 ```bash
-git clone [https://github.com/youruser/bcv-scraper.git](https://github.com/youruser/bcv-scraper.git)
+git clone https://github.com/jssmntll/bcv-scraper.git
 ```
 
 Enter the project directory
